@@ -12,6 +12,6 @@ import time
 # Write your program here
 #brick.sound.beep()
 
-brick.light(None)
+brick.light(None) 
 
  
